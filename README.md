@@ -1,1 +1,2 @@
 # odin-recipes
+im excited about this lesson as this first project will bring forth all the knowledge ive acquired up to this point about html and its foundation. Building this basic recipe website will allow me to practice creating an html file that includes links and images that follow a well structured format.  
